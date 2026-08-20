@@ -168,5 +168,14 @@
       "Answer for What's sum of values in north.csv on Jan 05th? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-checkout",
+    "started_at": 1787256532.079189,
+    "completed_at": 1787256533.815376,
+    "comments": [
+      "Great work traversing the revision history!"
+    ],
+    "status": "Completed"
   }
 ]
