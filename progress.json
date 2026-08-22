@@ -231,5 +231,14 @@
       "The 'visitor-line' branch should have the line 'I heard someone knocking at the door.' added to story.txt."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787424694.773612,
+    "completed_at": 1787424698.406334,
+    "comments": [
+      "The 'sleep-line' branch should have the line 'I fell asleep on the couch.' added to story.txt."
+    ],
+    "status": "Incomplete"
   }
 ]
