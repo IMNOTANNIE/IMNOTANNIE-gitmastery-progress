@@ -240,5 +240,14 @@
       "The 'sleep-line' branch should have the line 'I fell asleep on the couch.' added to story.txt."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1787424805.417787,
+    "completed_at": 1787424807.426138,
+    "comments": [
+      "Excellent work! You've successfully created branches from a previous commit and explored alternative storylines!"
+    ],
+    "status": "Completed"
   }
 ]
